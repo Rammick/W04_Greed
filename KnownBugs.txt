@@ -1,0 +1,2 @@
+1. Need to figure out how to delete stones and gems from list without
+breaking the for loop?
